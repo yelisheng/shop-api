@@ -1,7 +1,20 @@
 {
-	"users":[
-		{"id":1, "name":"yels"},
-		{"id":2, "name":"zhangsan"}
+	"api":{
+			"users":[
+				{"id":1, "name":"yels"},
+				{"id":2, "name":"zhangsan"}
 		
-	]
+			],
+			"home":{
+				"swiperdata":[
+					{"image_src":"https://sk.5173cdn.com/sk_4/data/202405/00/03/SwKowGY_L2EAAAAAAAKtJUgtnbQ19.jpg"},
+					{"image_src":"https://sk.5173cdn.com/sk_4/data/202208/00/24/SwKowGMHIBQAAAAAAAFS5B9Cejg27.jpg"},
+					{"image_src":"https://sk.5173cdn.com/sk_4/data/202312/00/0D/SwKowGWPwwUAAAAAAAGTQE-pqfY92.jpg"},
+					
+				],
+				
+			}
+		
+	}
+
 }
