@@ -1,19 +1,49 @@
 {
 	"api":{
-			"users":[
-				{"id":1, "name":"yels"},
-				{"id":2, "name":"zhangsan"}
-		
-			],
+
 			"home":{
 				"swiperdata":[
 					{"image_src":"https://sk.5173cdn.com/sk_4/data/202405/00/03/SwKowGY_L2EAAAAAAAKtJUgtnbQ19.jpg"},
 					{"image_src":"https://sk.5173cdn.com/sk_4/data/202208/00/24/SwKowGMHIBQAAAAAAAFS5B9Cejg27.jpg"},
-					{"image_src":"https://sk.5173cdn.com/sk_4/data/202312/00/0D/SwKowGWPwwUAAAAAAAGTQE-pqfY92.jpg"},
+					{"image_src":"https://sk.5173cdn.com/sk_4/data/202312/00/0D/SwKowGWPwwUAAAAAAAGTQE-pqfY92.jpg"}
 					
-				],
+				]
 				
-			}
+			},
+			"catitems":[
+				{
+					"name":"游戏币",
+					"image_src":"https://m.5173.com/dist/src/assets/images/bi2.png?7364c295dfadf008a4a1cc0b3fb64eb8"
+				},
+				{
+					"name":"帐号",
+					"image_src":"https://m.5173.com/dist/src/assets/images/hao.png?c3a58bd59c949e960a9442af51210275"
+				},
+				{
+					"name":"装备",
+					"image_src":"https://m.5173.com/dist/src/assets/images/zhuan.png?52af8f07dee3e69275a6de1be64ae737"
+				},
+				{
+					"name":"代练",
+					"image_src":"https://m.5173.com/dist/src/assets/images/lian.png?07fabf522f071639e96502c893f43739"
+				},
+				{
+					"name":"积分中心",
+					"image_src":"https://m.5173.com/dist/src/assets/images/jf.png?87b72fa95e6c4ba81365d8665c5f0bbe"
+				},
+				{
+					"name":"服务中心",
+					"image_src":"https://m.5173.com/dist/src/assets/images/fuwucenter.png?fcba20865a347567da381457706941b7"
+				},
+				{
+					"name":"加入5173",
+					"image_src":"https://m.5173.com/dist/src/assets/images/zp.gif?4e6ab2fb4d10e1e7a98540caf97afedf"
+				},
+				{
+					"name":"免手续费",
+					"image_src":"https://m.5173.com/dist/src/assets/images/msxf.png?d904c5f2aebef59669d8b1031213854e"
+				}
+			]
 		
 	}
 
