@@ -17,68 +17,50 @@
 			"goods_id": "ZH20140529000003"
 		}
 	],
+	"catitems": [
+		{
+			"id":1,
+			"name": "游戏币",
+			"image_src": "https://m.5173.com/dist/src/assets/images/bi2.png?7364c295dfadf008a4a1cc0b3fb64eb8"
+		},
+		{
+			"id":2,
+			"name": "帐号",
+			"image_src": "https://m.5173.com/dist/src/assets/images/hao.png?c3a58bd59c949e960a9442af51210275"
+		},
+		{
+			"id":3,
+			"name": "装备",
+			"image_src": "https://m.5173.com/dist/src/assets/images/zhuan.png?52af8f07dee3e69275a6de1be64ae737"
+		},
+		{
+			"id":4,
+			"name": "代练",
+			"image_src": "https://m.5173.com/dist/src/assets/images/lian.png?07fabf522f071639e96502c893f43739"
+		},
+		{
+			"id":5,
+			"name": "积分中心",
+			"image_src": "https://m.5173.com/dist/src/assets/images/jf.png?87b72fa95e6c4ba81365d8665c5f0bbe"
+		},
+		{
+			"id":6,
+			"name": "服务中心",
+			"image_src": "https://m.5173.com/dist/src/assets/images/fuwucenter.png?fcba20865a347567da381457706941b7"
+		},
+		{
+			"id":7,
+			"name": "加入5173",
+			"image_src": "https://m.5173.com/dist/src/assets/images/zp.gif?4e6ab2fb4d10e1e7a98540caf97afedf"
+		},
+		{
+			"id":8,
+			"name": "免手续费",
+			"image_src": "https://m.5173.com/dist/src/assets/images/msxf.png?d904c5f2aebef59669d8b1031213854e"
+		}
+	],
 	"api":{
 		"home":{
-			"swiperdata": [
-				{
-					"id":1,
-					"image_src": "https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-					"goods_id": "ZH20140529000001"
-				},
-			
-				{
-					"id":2,
-					"image_src": "https://inews.gtimg.com/om_ls/OFjq1EUF5p1EC-kiMLtYdOt1C3x8_sbISvw-Sk1tCwU3YAA_870492/0",
-					"goods_id": "ZH20140529000002"
-				},
-				{
-					"id":3,
-					"image_src": "https://inews.gtimg.com/news_bt/O3L8RpKNlF0Ly_sU1t0B5OjtMJHYASJPtXn2F9QtLw7QIAA/641",
-					"goods_id": "ZH20140529000003"
-				}
-			],
-			"catitems": [
-				{
-					"id":1,
-					"name": "游戏币",
-					"image_src": "https://m.5173.com/dist/src/assets/images/bi2.png?7364c295dfadf008a4a1cc0b3fb64eb8"
-				},
-				{
-					"id":2,
-					"name": "帐号",
-					"image_src": "https://m.5173.com/dist/src/assets/images/hao.png?c3a58bd59c949e960a9442af51210275"
-				},
-				{
-					"id":3,
-					"name": "装备",
-					"image_src": "https://m.5173.com/dist/src/assets/images/zhuan.png?52af8f07dee3e69275a6de1be64ae737"
-				},
-				{
-					"id":4,
-					"name": "代练",
-					"image_src": "https://m.5173.com/dist/src/assets/images/lian.png?07fabf522f071639e96502c893f43739"
-				},
-				{
-					"id":5,
-					"name": "积分中心",
-					"image_src": "https://m.5173.com/dist/src/assets/images/jf.png?87b72fa95e6c4ba81365d8665c5f0bbe"
-				},
-				{
-					"id":6,
-					"name": "服务中心",
-					"image_src": "https://m.5173.com/dist/src/assets/images/fuwucenter.png?fcba20865a347567da381457706941b7"
-				},
-				{
-					"id":7,
-					"name": "加入5173",
-					"image_src": "https://m.5173.com/dist/src/assets/images/zp.gif?4e6ab2fb4d10e1e7a98540caf97afedf"
-				},
-				{
-					"id":8,
-					"name": "免手续费",
-					"image_src": "https://m.5173.com/dist/src/assets/images/msxf.png?d904c5f2aebef59669d8b1031213854e"
-				}
-			],
 			"floors":[
 				{
 					"id":1,
