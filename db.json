@@ -62,40 +62,39 @@
 	"floors":[
 		{
 			"id":1,
-			"title":"时尚女装2",
-			 "items":[
-				 {
-					"id":1,
-					 "first_image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-					 "first_image_nav":"/pages/cate/cate",
-					 "sub_images":[
-							 {
-								"id":1,
-								 "image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-								 "image_nav":"/pages/cate/cate"
-							 },
-							 {
-								"id":2,
-								 "image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-								 "image_nav":"/pages/cate/cate"
-							 },
+			"title":"时尚女装",
+			"items":
+			{
+				"first_image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
+				"first_image_nav":"/pages/cate/cate",
+				"sub_images":[
+						{
+						"id":1,
+							"image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
+							"image_nav":"/pages/cate/cate"
+						},
+						{
+						"id":2,
+							"image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
+							"image_nav":"/pages/cate/cate"
+						},
 
-							 {
-								"id":3,
-								 "image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-								 "image_nav":"/pages/cate/cate"
-							 },
+						{
+						"id":3,
+							"image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
+							"image_nav":"/pages/cate/cate"
+						},
 
-							 {
-								"id":4,
-								 "image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-								 "image_nav":"/pages/cate/cate"
-							 }
+						{
+						"id":4,
+							"image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
+							"image_nav":"/pages/cate/cate"
+						}
 
 
-					 ]
-				 }
-			 ]
+				]
+			}
+			 
 
 
 		}
