@@ -50,35 +50,7 @@
 	],
 	"floors": [
 		{
-			"title":"时尚女装",
-			"items":[
-				{
-					"first_image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-					"first_image_nav":"/pages/cate/cate",
-					"sub_images":[
-							{
-								"image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-								"image_nav":"/pages/cate/cate"
-							},
-							{
-								"image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-								"image_nav":"/pages/cate/cate"
-							},
-
-							{
-								"image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-								"image_nav":"/pages/cate/cate"
-							},
-
-							{
-								"image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-								"image_nav":"/pages/cate/cate"
-							}
-
-
-					]
-				}
-			]
+			"title":"时尚女装"
 
 
 		}
