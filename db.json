@@ -1,14 +1,17 @@
 {
 	"swiperdata": [
 		{
-			"image_src": "https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641"
+			"image_src": "https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
+			"goods_id": "ZH20140529000001"
 		},
 	
 		{
-			"image_src": "https://inews.gtimg.com/om_ls/OFjq1EUF5p1EC-kiMLtYdOt1C3x8_sbISvw-Sk1tCwU3YAA_870492/0"
+			"image_src": "https://inews.gtimg.com/om_ls/OFjq1EUF5p1EC-kiMLtYdOt1C3x8_sbISvw-Sk1tCwU3YAA_870492/0",
+			"goods_id": "ZH20140529000002"
 		},
 		{
-			"image_src": "https://inews.gtimg.com/news_bt/O3L8RpKNlF0Ly_sU1t0B5OjtMJHYASJPtXn2F9QtLw7QIAA/641"
+			"image_src": "https://inews.gtimg.com/news_bt/O3L8RpKNlF0Ly_sU1t0B5OjtMJHYASJPtXn2F9QtLw7QIAA/641",
+			"goods_id": "ZH20140529000003"
 		}
 	],
 	"catitems": [
