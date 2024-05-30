@@ -267,11 +267,40 @@
 			"children":[
 				{
 					"id":1,
-					"name":"海信",
-					"image_src":"https://m.5173.com/dist/src/assets/images/msxf.png?d904c5f2aebef59669d8b1031213854e",
-					"image_nav":"/pages/cate/cate"
+					"name":"淘系",
+					"children":[
+						{
+							"id":1,
+							"name":"床",
+							"image_src":"https://m.5173.com/dist/src/assets/images/msxf.png?d904c5f2aebef59669d8b1031213854e",
+							"image_nav":"/pages/cate/cate"
+						},
+						{
+							"id":2,
+							"name":"枕头",
+							"image_src":"https://m.5173.com/dist/src/assets/images/msxf.png?d904c5f2aebef59669d8b1031213854e",
+							"image_nav":"/pages/cate/cate"
+						}
+					]
+				},
+				{
+					"id":2,
+					"name":"海外",
+					"children":[
+						{
+							"id":1,
+							"name":"自行车",
+							"image_src":"https://m.5173.com/dist/src/assets/images/msxf.png?d904c5f2aebef59669d8b1031213854e",
+							"image_nav":"/pages/cate/cate"
+						},
+						{
+							"id":2,
+							"name":"滑板车",
+							"image_src":"https://m.5173.com/dist/src/assets/images/msxf.png?d904c5f2aebef59669d8b1031213854e",
+							"image_nav":"/pages/cate/cate"
+						}
+					]
 				}
-
 			]
 		},
 		{
