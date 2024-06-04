@@ -352,6 +352,48 @@
 			]
 		}
 	],
+	"goods": [
+		{
+			"id":1,
+			"name": "海信吸抽油烟机家用厨...",
+			"image_src": "https://m.5173.com/dist/src/assets/images/bi2.png?7364c295dfadf008a4a1cc0b3fb64eb8"
+		},
+		{
+			"id":2,
+			"name": "中科存储朱雀固态硬盘...",
+			"image_src": "https://m.5173.com/dist/src/assets/images/hao.png?c3a58bd59c949e960a9442af51210275"
+		},
+		{
+			"id":3,
+			"name": "自由点益生菌卫生巾日...",
+			"image_src": "https://m.5173.com/dist/src/assets/images/zhuan.png?52af8f07dee3e69275a6de1be64ae737"
+		},
+		{
+			"id":4,
+			"name": "代练",
+			"image_src": "https://m.5173.com/dist/src/assets/images/lian.png?07fabf522f071639e96502c893f43739"
+		},
+		{
+			"id":5,
+			"name": "积分中心",
+			"image_src": "https://m.5173.com/dist/src/assets/images/jf.png?87b72fa95e6c4ba81365d8665c5f0bbe"
+		},
+		{
+			"id":6,
+			"name": "服务中心",
+			"image_src": "https://m.5173.com/dist/src/assets/images/fuwucenter.png?fcba20865a347567da381457706941b7"
+		},
+		{
+			"id":7,
+			"name": "加入5173",
+			"image_src": "https://m.5173.com/dist/src/assets/images/zp.gif?4e6ab2fb4d10e1e7a98540caf97afedf"
+		},
+		{
+			"id":8,
+			"name": "免手续费",
+			"image_src": "https://m.5173.com/dist/src/assets/images/msxf.png?d904c5f2aebef59669d8b1031213854e"
+		}
+	],
 	"api":{
 		"home":{
 			"swiperdata":[],
@@ -359,7 +401,8 @@
 			"floors":[]
 		},
 		"cate":{
-			"cateInfos":[]
+			"cateInfos":[],
+			"goods":[]
 		}
 	}
 }
