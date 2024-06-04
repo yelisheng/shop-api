@@ -320,36 +320,6 @@
 			"name":"电脑办公",
 			"children":[
 			]
-		},
-		{
-			"id":7,
-			"name":"食品酒水",
-			"children":[
-			]
-		},
-		{
-			"id":8,
-			"name":"生活用品",
-			"children":[
-			]
-		},
-		{
-			"id":9,
-			"name":"厨卫电器",
-			"children":[
-			]
-		},
-		{
-			"id":10,
-			"name":"超市购物",
-			"children":[
-			]
-		},
-		{
-			"id":12,
-			"name":"家居办公",
-			"children":[
-			]
 		}
 	],
 	"goods": [
