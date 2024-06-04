@@ -30,62 +30,6 @@
 			"image_src": "https://m.5173.com/dist/src/assets/images/msxf.png?d904c5f2aebef59669d8b1031213854e"
 		}
 	],
-	"floors":[
-		{
-			"id":1,
-			"title":"时尚女装",
-			"items":
-			{
-				"first_image_src":"https://inews.gtimg.com/news_bt/O3L8RpKNlF0Ly_sU1t0B5OjtMJHYASJPtXn2F9QtLw7QIAA/641",
-				"first_image_nav":"/pages/cate/cate",
-				"sub_images":[
-						{
-							"id":1,
-							"image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-							"image_nav":"/pages/cate/cate"
-						},
-
-						{
-							"id":4,
-							"image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-							"image_nav":"/pages/cate/cate"
-						}
-
-
-				]
-			}
-			 
-
-
-		},
-		{
-			"id":1,
-			"title":"户外运动",
-			"items":
-			{
-				"first_image_src":"https://inews.gtimg.com/om_ls/OFjq1EUF5p1EC-kiMLtYdOt1C3x8_sbISvw-Sk1tCwU3YAA_870492/0",
-				"first_image_nav":"/pages/cate/cate",
-				"sub_images":[
-						{
-							"id":1,
-							"image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-							"image_nav":"/pages/cate/cate"
-						},
-
-						{
-							"id":4,
-							"image_src":"https://inews.gtimg.com/news_bt/Or2cSysxSsK1ErozRGyUZ5OwSSJTLoy8Z2kFOsnxnDetYAA/641",
-							"image_nav":"/pages/cate/cate"
-						}
-
-
-				]
-			}
-			 
-
-
-		}
-	],
 	"cateInfos":[
 		{
 			"id":1,
@@ -247,8 +191,7 @@
 	"api":{
 		"home":{
 			"swiperdata":[],
-			"catitems": [],
-			"floors":[]
+			"catitems": []
 		},
 		"cate":{
 			"cateInfos":[],
